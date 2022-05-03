@@ -1,0 +1,51 @@
+.navbar{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.logoBox{
+    display: relative;
+    top: 25px;
+    left: 25px;
+}
+
+.logo{
+    border-radius: 45px;
+    
+}
+
+.navTitle{
+
+    margin: 0;
+}
+
+.content{
+    margin: 0 auto;
+    max-width: 1150px;
+}
+
+.headerPrimary{
+    margin: 24px 0;
+}
+
+.headerPrimaryMain{
+    display: block;
+    font-size: 12px;
+    font-weight: 400;
+}
+
+.headerPrimarySub{
+    display: block;
+    font-size: 24px;
+    font-weight: 700;
+}
+
+.bullet{
+    padding: 24px;
+}
+
+.content h2 {
+    margin: 24px 0 0 0;
+}
