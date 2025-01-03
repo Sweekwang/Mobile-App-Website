@@ -20,7 +20,7 @@ const PrivatePolicy = () => (
       <h1>Privacy Policy</h1>
       <p>
         <strong>Chua Swee Kwang</strong> and <strong>Chua Swee Liang</strong> built the 
-        <strong> BTT Basic Theory Test</strong> app (referred to as the “Service”) as a Free app. 
+        <strong> BTT, FTT, RTT - Theory Test SG</strong> app (referred to as the “Service”) as a Free app. 
         This Service is provided at no cost and is intended for use as-is.
       </p>
       <p>
