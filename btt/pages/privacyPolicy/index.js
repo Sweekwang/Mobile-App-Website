@@ -76,7 +76,7 @@ const PrivatePolicy = () => (
       <p>
         Whenever you use the Service, in the event of an error, we (or third-party 
         services) may collect data and information from your device called “Log Data.” 
-        This may include your device’s IP address, device name, operating system 
+        This may include your device&apos;s IP address, device name, operating system 
         version, the configuration of the app when utilizing our Service, the time 
         and date of your use, and other statistics.
       </p>
@@ -85,7 +85,7 @@ const PrivatePolicy = () => (
       <p>
         Cookies are files with a small amount of data that are commonly used as 
         anonymous unique identifiers. These are sent to your browser from the websites 
-        you visit and stored on your device's internal memory.
+        you visit and stored on your device&apos;s internal memory.
       </p>
       <p>
         Our Service does not use cookies explicitly. However, it may include code or 
