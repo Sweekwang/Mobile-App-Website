@@ -12,7 +12,7 @@ const PrivatePolicy = () => (
         height="45"
         className={styles.logo}
       />
-      <p className={styles.navTitle}>BTT Mobile App</p>
+      <p className={styles.navTitle}>BTT, FTT, RTT - Theory Test SG</p>
       <div></div>
     </nav>
 
